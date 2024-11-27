@@ -1,3 +1,6 @@
+## Please note these folders are in one folder called data
+The folders are anchors, classes, dataset, helpers, video, yolov4-tiny-weights.
+
 ## Owner of the project
 Name: Anthonia Ugolo
 Fellow ID: FE/23/98293625
